@@ -1,0 +1,2 @@
+IN: This is where all the cookies that will be converted will end up
+PT: É aqui que todos os cookies que serão convertidos acabarão
